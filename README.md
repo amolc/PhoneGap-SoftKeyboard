@@ -14,3 +14,6 @@ BTW:
 To have callback for hiding and showing the keyboard you can use:
 "showkeyboard" / "hidekeyboard" events wich are not mentioned in the docs.
 
+
+cordova plugin add https://github.com/amolc/PhoneGap-SoftKeyboard.git
+
